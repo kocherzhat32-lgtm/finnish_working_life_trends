@@ -27,19 +27,19 @@ This portfolio project processes and harmonizes multi-year survey datasets from 
 ## 💡 Executive Summary & Key Takeaways
 
 1. **Workplace Safety & Discrimination:**
-   * **Bullying:** Harassment and psychological pressure remain the most persistent challenges, consistently affecting 35%–39% of respondents across the decade[cite: 8].
-   * **Discrimination:** Reported discrimination experienced a sharp decline post-2020, dropping from ~27–31% down to below 10% by 2024[cite: 8].
-   * **Physical Violence:** Incidents and threats of physical violence remained relatively low and stable (6%–11%)[cite: 8].
+   * **Bullying:** Harassment and psychological pressure remain the most persistent challenges, consistently affecting 35%–39% of respondents across the decade.
+   * **Discrimination:** Reported discrimination experienced a sharp decline post-2020, dropping from ~27–31% down to below 10% by 2024.
+   * **Physical Violence:** Incidents and threats of physical violence remained relatively low and stable (6%–11%).
 
 2. **Work Strain & Autonomy:**
-   * **Physical vs. Mental Demands:** Physical load consistently exceeds mental load scores, holding strong at 2.8–3.0 out of 4[cite: 4].
-   * **Autonomy & Pace:** Workplace autonomy scores lead overall metrics, though work pace experienced an upward uptick after 2022[cite: 6].
+   * **Physical vs. Mental Demands:** Physical load consistently exceeds mental load scores, holding strong at 2.8–3.0 out of 4.
+   * **Autonomy & Pace:** Workplace autonomy scores lead overall metrics, though work pace experienced an upward uptick after 2022.
 
 3. **Job Security Anxieties:**
-   * High structural concern remains regarding potential layoffs (*Dismissal Risk*) and forced leave (*Furlough Risk*), averaging between 3.2 and 3.5 on a 1–4 scale[cite: 5].
+   * High structural concern remains regarding potential layoffs (*Dismissal Risk*) and forced leave (*Furlough Risk*), averaging between 3.2 and 3.5 on a 1–4 scale.
 
 4. **Unpaid Overtime Fluctuations:**
-   * Unpaid overtime engagement ranges from 35% to 42%, peaking sharply in **2021 (42.3%)** before steadily falling to **35.5% in 2024**[cite: 7].
+   * Unpaid overtime engagement ranges from 35% to 42%, peaking sharply in **2021 (42.3%)** before steadily falling to **35.5% in 2024**.
 
 ---
 
