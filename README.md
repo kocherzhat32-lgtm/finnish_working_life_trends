@@ -24,26 +24,40 @@ This portfolio project processes and harmonizes multi-year survey datasets from 
 
 ---
 
-## 📊 Key Findings & Visualizations
+## 💡 Executive Summary & Key Takeaways
+
+1. **Workplace Safety & Discrimination:**
+   * **Bullying:** Harassment and psychological pressure remain the most persistent challenges, consistently affecting 35%–39% of respondents across the decade[cite: 8].
+   * **Discrimination:** Reported discrimination experienced a sharp decline post-2020, dropping from ~27–31% down to below 10% by 2024[cite: 8].
+   * **Physical Violence:** Incidents and threats of physical violence remained relatively low and stable (6%–11%)[cite: 8].
+
+2. **Work Strain & Autonomy:**
+   * **Physical vs. Mental Demands:** Physical load consistently exceeds mental load scores, holding strong at 2.8–3.0 out of 4[cite: 4].
+   * **Autonomy & Pace:** Workplace autonomy scores lead overall metrics, though work pace experienced an upward uptick after 2022[cite: 6].
+
+3. **Job Security Anxieties:**
+   * High structural concern remains regarding potential layoffs (*Dismissal Risk*) and forced leave (*Furlough Risk*), averaging between 3.2 and 3.5 on a 1–4 scale[cite: 5].
+
+4. **Unpaid Overtime Fluctuations:**
+   * Unpaid overtime engagement ranges from 35% to 42%, peaking sharply in **2021 (42.3%)** before steadily falling to **35.5% in 2024**[cite: 7].
+
+---
+
+## 📊 Visualizations
 
 ### 1. Workplace Safety and Discrimination Trends
-Tracks multi-year exposure to psychological harassment (bullying), observed discrimination, and physical violence incidents.
 ![Workplace Safety and Discrimination Trends](workplace_safety_and_discrimination_trends.png)
 
 ### 2. Core Work-Life Metrics
-Analyzes multi-year dynamics of autonomy, work pace, and mental strain in Finnish workplaces.
 ![Core Work-Life Metrics](simple_indices_trend_2014_2024.png)
 
 ### 3. Job Security & Employment Stability
-Tracks perceived risks of dismissals, furlough threats, and overall job security.
 ![Job Security Dynamics](job_security_trend_2014_2024.png)
 
 ### 4. Physical and Mental Work Load
-Compares structural demands on physical exertion versus mental strain across industries.
 ![Physical and Mental Work Load](physical_mental_load_trend_2014_2024.png)
 
 ### 5. Unpaid Overtime Dynamics
-Highlights the percentage of employees performing unpaid overtime, showcasing a notable peak in 2021.
 ![Unpaid Overtime Dynamics](unpaid_overtime_trend_2014_2024.png)
 
 ---
