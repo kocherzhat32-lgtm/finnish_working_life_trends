@@ -63,15 +63,16 @@ This portfolio project processes and harmonizes multi-year survey datasets from 
 ---
 
 ## 📂 Repository Structure
+
 ```text
-finnish_working_life_trends/
-│
+.
 ├── 01_core_work_life_indices.ipynb            # Core indices and general workplace metrics
 ├── 02_unpaid_overtime.ipynb                    # Analysis of unpaid overtime and working hours
 ├── 03_job_security.ipynb                       # Employment stability and perceived job security trends
 ├── 04_physical_mental_load.ipynb               # Physical and mental strain indicators
 ├── 05_data_harmonization.ipynb                 # Master harmonization script for raw survey years
 ├── 06_visualization_and_analysis.ipynb         # Final trend aggregation and visualization generation
+├── README.md                                   # Project documentation
 │
 ├── harmonized_physical_mental_load_2014_2024.csv # Exported aggregated trends: Work Load
 ├── harmonized_safety_indicators.csv            # Exported aggregated trends: Safety & Discrimination
